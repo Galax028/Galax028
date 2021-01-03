@@ -1,7 +1,7 @@
 # Hello there random stranger! 👋
 My name (username) is Galax, I live in Thailand, and I am a high school student who loves to code. I wish to get a programming job later in my life! Currently I am mostly doing Python programming and I might learn C/C++ in the future.
 
-# More About Me
+## More About Me
 - 💻 I'm currently using: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 - 👨‍💻 I’m currently working on: ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![Discord Bots](https://img.shields.io/badge/-Discord%20Bots-black?style=flat-square&logo=Discord) ![PW Manager](https://img.shields.io/badge/-PW%20Manager-darkgreen?style=flat-square&logo=python)
 - 🧠 I’m currently learning: ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
@@ -9,8 +9,8 @@ My name (username) is Galax, I live in Thailand, and I am a high school student 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I kinda self-taught Python.
 
-# My Statistics
+## My Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Galax028&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Galax028&hide=TeX&layout=compact&theme=dark)
 
-# My Projects and Repositories ⬇
+## My Projects and Repositories ⬇
