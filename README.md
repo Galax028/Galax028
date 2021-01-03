@@ -1,5 +1,5 @@
-### Hello there random starnger! 👋
-
+# Hello there random starnger! 👋
+---
 <!--
 **Galax028/Galax028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My Statistics
+---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Galax028&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Galax028&hide=TeX&layout=compact&theme=dark)
+
+# My Projects and Repositories ⬇
+---
