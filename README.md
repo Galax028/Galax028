@@ -1,5 +1,5 @@
 # Hello there random stranger! 👋
----
+My name(username) is Galax, and I am a high school student who loves to code. I wish to get a programming job later in my life! Currently I am mostly doing Python programming and I might learn C/C++ in the future.
 <!--
 **Galax028/Galax028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
