@@ -1,7 +1,7 @@
 # Hi 👋
 I'm Galax and I mainly code in Python. Sometimes I also make web apps. Check out my [website](https://galax.tech) for more details.
 
-![Arch Linux](https://img.shields.io/static/v1?label=|&message=Arch Linux&color=1793d1&logo=archlinux)
+![Arch Linux](https://img.shields.io/static/v1?label=|&message=Arch%20Linux&color=1793d1&logo=archlinux)
 ![Git](https://img.shields.io/static/v1?label=|&message=Git&color=f05032&logo=git)
 ![Python](https://img.shields.io/static/v1?label=|&message=Python&color=3776ab&logo=python)
 ![C++](https://img.shields.io/static/v1?label=|&message=C%2b%2b&color=00599c&logo=cplusplus)
