@@ -4,7 +4,6 @@ I'm Galax and I mainly code in Python. Sometimes I also make web apps. Check out
 ![Arch Linux](https://img.shields.io/static/v1?label=|&message=Arch%20Linux&color=1793d1&logo=archlinux)
 ![Git](https://img.shields.io/static/v1?label=|&message=Git&color=f05032&logo=git)
 ![Python](https://img.shields.io/static/v1?label=|&message=Python&color=3776ab&logo=python)
-![C++](https://img.shields.io/static/v1?label=|&message=C%2b%2b&color=00599c&logo=cplusplus)
 ![Markdown](https://img.shields.io/static/v1?label=|&message=Markdown&color=000000&logo=markdown)
 ![LaTeX](https://img.shields.io/static/v1?label=|&message=LaTeX&color=008080&logo=latex)
 ![HTML5](https://img.shields.io/static/v1?label=|&message=HTML5&color=e34f26&logo=html5)
