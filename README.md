@@ -9,6 +9,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Galax028&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galax028&hide=TeX&layout=compact&theme=dark" alt="Most Used Languages" height="200" />
+<a href="https://github.com/Galax028">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Galax028&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Galax028">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Galax028&layout=compact&lang_count=8&card_width=320&theme=dark" />
+</a>
 </div>
